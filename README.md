@@ -1,8 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm a Senior Fullstack developer || Talented Blockchain developer</h1>
-<h3 align="center">I am available now and can start right now.</h3>
 
 <h4 align="center">Hi, I am a Full Stack Blockchain Developer. I own a strong hold on different skills such as HTML, CSS, JavaScript, Python, PHP, Solidity, Rust, Ethereum, Vue, Nuxt, Qusasar, React JS, React-Native, Next, Node, TypeScript, etc. I've done multiple projects on website and web app development. I'm also engaged with different freelancing platforms, from where I've created a trusted bond with my clients by offering them tremendous services.</h4>
+
+<h3 align="center">I am available now and can start right now.</h3>
 
 ##
 
