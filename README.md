@@ -11,5 +11,5 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=masculus&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toptal126&hide=PHP,html,c&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=toptal126&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masculus&hide=PHP,html,c&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=masculus&theme=radical&hide_border=true)](https://git.io/streak-stats)
