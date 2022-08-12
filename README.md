@@ -13,3 +13,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masculus&hide=PHP,html,c&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=masculus&theme=radical&hide_border=true)](https://git.io/streak-stats)
+![Magnus Masculus's GitHub stats](https://github-readme-stats.vercel.app/api?username=masculus&theme=radical&hide_border=true&show_icons=true)
