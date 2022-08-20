@@ -1,4 +1,4 @@
-### Web & Mobile & Blockchain Developer.
+### <h2 align="center">Web & Mobile & Blockchain Developer.</h2>
 
 <p align="center">
   <img src="https://github.com/icedev528/icedev528/blob/main/Logo.gif" />
