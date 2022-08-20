@@ -1,9 +1,7 @@
 ### Web & Mobile & Blockchain Developer.
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20developer;5+%2B%20years%20of%20working%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45">
-  </a>
+  <img src="https://github.com/icedev528/icedev528/blob/main/Logo.gif" />
 </p>
 
 <h4 align="center">Hi, I am a Full Stack & Blockchain Developer. I own a strong hold on different skills such as HTML, CSS, JavaScript, Python, Django, Flask, PHP, Solidity, Rust, Golang, Ethereum, Vue, Nuxt, Qusasar, React JS, React-Native, Next, Node, TypeScript, etc. I've done multiple projects on website and web app development. I'm also engaged with different freelancing platforms, from where I've created a trusted bond with my clients by offering them tremendous services.</h4>
