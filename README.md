@@ -20,12 +20,12 @@
 <br/>
 
 
-![PractalDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=practadev&theme=radical&hide_border=true&show_icons=true)
+![PractalDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=practaldev&theme=radical&hide_border=true&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=practadev&hide=PHP,html,c&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=practadev&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=practaldev&hide=PHP,html,c&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=practaldev&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 <p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=practadev&column=7&theme=onedark"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=practaldev&column=7&theme=onedark"/>
 </p>
 
