@@ -14,8 +14,6 @@
 
 ##
 
-<h3 align="center">I am available now and can start right now.</h3>
-
 <img src="https://activity-graph.herokuapp.com/graph?username=practaldev&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
 <br/>
 
