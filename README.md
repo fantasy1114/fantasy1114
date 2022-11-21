@@ -19,7 +19,7 @@
 
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=practaldev&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=ondark&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=practaldev&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=practaldev&hide=PHP,html,c&theme=onedark&hide_border=true&line_height=27">
   <br><br>
     <img src = "https://github-readme-streak-stats.herokuapp.com?user=practaldev&theme=onedark&hide_border=true&include_all_commits=true&line_height=27">
