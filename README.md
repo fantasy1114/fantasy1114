@@ -26,6 +26,6 @@
 </p>
 
 <p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=practaldev&column=7&theme=onedark"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=practaldev&column=7&theme=tokyonight"/>
 </p>
 
