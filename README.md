@@ -2,9 +2,6 @@
   Hi, Nice to meet you.
 </h1>
 <h2 align="center">I am a Web & Blockchain Developer.</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="450px" width="350px" align="right"> <br>
-</p>
 
 <h4 align="center">I am a Full Stack & Blockchain Developer. I own a strong hold on different skills such as HTML, CSS, JavaScript, Python, Django, Flask, PHP, Solidity, Rust, Golang, Ethereum, Vue, Nuxt, Qusasar, React JS, React-Native, Next, Node, TypeScript, etc. I've done multiple projects on website and web app development. I'm also engaged with different freelancing platforms, from where I've created a trusted bond with my clients by offering them tremendous services.</h4>
 
